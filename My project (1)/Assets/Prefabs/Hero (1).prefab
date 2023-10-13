@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
-  footstepSound: {fileID: 8300000, guid: 7f015833fdeefb844a51f8c2ce1e8e70, type: 3}
+  footstepSound: {fileID: 8300000, guid: 5af9d205b55f866419a9b82b73bcd374, type: 3}
 --- !u!50 &3804399423646882180
 Rigidbody2D:
   serializedVersion: 4
